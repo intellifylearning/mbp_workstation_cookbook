@@ -1,4 +1,29 @@
 # mbp_workstation_cookbook
 
-TODO: Enter the cookbook description here.
+A WIP cookbook to setup a variety of applications I commonly use
+
+* Sublime Text
+* Alfred
+* iTerm
+* xCode
+* Keepassx
+* rbenv
+* direnv
+* virtualenv
+* virtualenvwrapper
+* gitautocomplete
+* chrome
+* firefox
+* awscli
+* seil
+* ka
+* cyberduck
+* divvy
+* go
+* mongodb
+* elasticsearch
+* docker
+* virtualbox
+* packer
+* terraform
 
